@@ -45,6 +45,7 @@
     justify-self: left;
     align-items: center;
     border: none;
+    outline: none;
     background-color: rgb(255, 255, 255);
     margin-top: 25px;
     padding-left: 20px;
@@ -93,6 +94,7 @@
 .email {
     display: flex;
     border: none;
+    outline: none;
     background-color: white;
     font-size: 16px;
     font-weight: 500;
@@ -115,6 +117,7 @@
 
 .language {
     border: none;
+    outline: none;
     background-color: white;
     font-size: 16px;
     font-weight: 500;
